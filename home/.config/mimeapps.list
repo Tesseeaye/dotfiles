@@ -1,0 +1,21 @@
+[Added Associations]
+image/png=viewnior.desktop;
+image/jpeg=viewnior.desktop;
+text/x-csrc=geany.desktop;
+application/x-shellscript=sublime_text.desktop;code-oss.desktop;geany.desktop;
+image/gif=viewnior.desktop;
+image/svg+xml=viewnior.desktop;
+application/xml=sublime_text.desktop;code-oss.desktop;
+application/atom+xml=sublime_text.desktop;
+application/ecmascript=sublime_text.desktop;
+application/gml+xml=sublime_text.desktop;
+application/gpx+xml=sublime_text.desktop;
+text/plain=sublime_text.desktop;
+
+[Default Applications]
+image/gif=viewnior.desktop
+image/svg+xml=viewnior.desktop
+application/atom+xml=sublime_text.desktop
+application/ecmascript=sublime_text.desktop
+application/gml+xml=sublime_text.desktop
+application/gpx+xml=sublime_text.desktop
